@@ -673,4 +673,4 @@ if __name__ == "__main__":
       traceback.print_exc()
 
 
-bot.run("OTcwNTU1MzQwNzc1MTEyNzA0.Ym9qGQ.8qQuEnio3JFbIeyQF_hVZxLucFc")
+bot.run("")
